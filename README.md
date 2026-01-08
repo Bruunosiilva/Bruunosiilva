@@ -7,6 +7,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=black&right_color=darkolivegreen"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -34,21 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=black&right_color=darkolivegreen"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Bruunosiilva/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Bruunosiilva/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Bruunosiilva/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Bruunosiilva/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Bruunosiilva/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Bruunosiilva/2" alt="Medium post 3"  />
-  </a>
+  <img height="225" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4Nzg4ODgsIm5iZiI6MTc2Nzg3ODU4OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA4VDEzMjMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4M2RhZmFmZjVhNmZjNDI4N2FkYmRkYTMzOWFiMDdkMGE1MjdmY2RkMjk0NWQ0OGI4ZWFkZTQ0ZDE3ZmY3NzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IXeQotqR5a-_BHs-Pe-GOGjpsoX1SK89mNShOLx149Q"  />
 </div>
 
 ###
