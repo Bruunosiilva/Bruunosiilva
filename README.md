@@ -3,6 +3,16 @@
 <h2 align="center">Hello, welcome to my profile GitHub!</h2>
 
 <div align="center">
+  <a href="https://github.com/Bruunosiilva">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruunosiilva&theme=vue-dark&hide_border=true" style="max-width: 400px; height: 200px;" alt="streak stats">
+  </a>
+</div>
+
+[![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&theme=vue&area=true&hide_border=true)](https://github.com/Bruunosiilva)
+
+#
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -25,16 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
 </div>
-
-#
-
-<div align="center">
-  <a href="https://github.com/Bruunosiilva">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruunosiilva&theme=vue-dark&hide_border=true" style="max-width: 400px; height: 200px;" alt="streak stats">
-  </a>
-</div>
-
-[![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&theme=vue&area=true&hide_border=true)](https://github.com/Bruunosiilva)
 
 #
 
