@@ -15,9 +15,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   </p>
 
+  <br/>
+
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&radius=16&theme=vue&area=true" width="100%" alt="activity-graph" />
   </p>
+
+  <br/>
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/Bruunosiilva/Bruunosiilva/output/github-contribution-grid-snake.svg" alt="Snake animation" />
