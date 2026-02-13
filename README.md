@@ -1,9 +1,6 @@
-
 <span align="center">
 
 ## *Hello, welcome to my profile GitHub!*
-
-#
 
 ### 🛠️ Tecnologias e Ferramentas
 
