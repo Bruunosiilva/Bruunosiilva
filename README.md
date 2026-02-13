@@ -1,3 +1,5 @@
+<span align="center">
+
 <h2 align="center">Hello, welcome to my profile GitHub!</h2>
 
 ###
@@ -28,15 +30,21 @@
 
 ###
 
-<br clear="both">
-
+<span align="center">
+  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bruunosiilva&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&radius=16&theme=vue&area=true&order=5" height="250" alt="activity-graph graph"  />
+  <a href="https://github.com/Bruunosiilva">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruunosiilva&theme=vue-dark&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruunosiilva&layout=compact&langs_count=7&theme=vue-dark&hide_border=true" style="max-width: 400px; height: 200px;">
+  </a>
 </div>
 
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
 
-<img src="https://raw.githubusercontent.com/Bruunosiilva/Bruunosiilva/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Bruunosiilva/Bruunosiilva/blob/main/dist/github-snake-dark.svg)
 
-###
+</div>
+  
+  </span>
+
