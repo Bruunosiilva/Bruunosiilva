@@ -6,8 +6,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruunosiilva&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## GitHub Activity Graph
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 </p>
