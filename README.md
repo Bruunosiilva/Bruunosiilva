@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <p align="center">
