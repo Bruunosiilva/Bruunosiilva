@@ -2,16 +2,6 @@
 
 <h2 align="center">Hello, welcome to my profile GitHub!</h2>
 
-<div align="center">
-  <a href="https://github.com/Bruunosiilva">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruunosiilva&theme=vue-dark&hide_border=true" style="max-width: 400px; height: 200px;" alt="streak stats">
-  </a>
-</div>
-
-[![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruunosiilva&theme=vue&area=true&hide_border=true)](https://github.com/Bruunosiilva)
-
-#
-
 ## Skills
 
 <p align="left">
