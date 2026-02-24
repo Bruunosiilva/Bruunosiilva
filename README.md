@@ -1,21 +1,21 @@
 <h2 align="center">Hello, welcome to my profile GitHub!</h2>
+<h1 align="center">Hi there, I'm Bruno! 👋</h1>
 
-# Hi there, I'm Bruno! 👋
+I'm a **Software Engineering Student** living in São Paulo 🇧🇷, passionate about transforming ideas into code and learning new technologies every day.
 
-I'm a **Software Engineering Student** based in São Paulo, Brazil 🇧🇷, passionate about solving problems through technology and building efficient solutions.
+Currently, I focus on backend development and modern infrastructure, seeking to create efficient and scalable solutions.
 
-I'm currently focusing my development on the **Java/Spring** ecosystem and modern infrastructure, always looking to learn and grow in the software development field.
-
-- 💻 Currently diving deep into **Spring Boot, Java, Python, MySQL, PostgreSQL, Docker and AWS**.
-- 🚀 I love collaborating on open-source projects and learning new cultures.
+- 💻 Currently studying: **Spring Boot, Docker, and AWS**.
+- 🛠️ Tech Stack: **Java, Python, MySQL, and PostgreSQL**.
+- 🚀 Always looking for new challenges and collaborations on Open Source projects.
 
 ---
 
 ### A little more about me:
 
-* 💻 I’m passionate about technology and how it changes the world.
-* ✈️ I love to travel and experience new places and different cultures.
-* ⚽ Passionate about football, **São Paulo Futebol Clube** (Brazil) 🔴⚪⚫.
+* 📚 Passionate about technology and the constant evolution of the software market.
+* ✈️ I love to travel, discover new places, and dive into different cultures.
+* ⚽ Football fan and supporter of **São Paulo Futebol Clube** 🔴⚪⚫.
 
 ##
 
