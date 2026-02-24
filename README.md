@@ -19,7 +19,7 @@ Currently, I focus on backend development and modern infrastructure, seeking to 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,docker,py,mysql,postgres,idea,spring,windows,postman,aws" />
+    <img src="https://skillicons.dev/icons?i=git,java,postgres,py,mysql,docker,idea,spring,windows,aws,postman" />
   </a>
 </p>
 
