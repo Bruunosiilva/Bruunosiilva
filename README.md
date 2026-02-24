@@ -5,17 +5,16 @@ I'm a **Software Engineering Student** living in São Paulo 🇧🇷, passionate
 
 Currently, I focus on backend development and modern infrastructure, seeking to create efficient and scalable solutions.
 
-- 💻 Currently studying: **Spring Boot, Docker, and AWS**.
-- 🛠️ Tech Stack: **Java, Python, MySQL, and PostgreSQL**.
-- 🚀 Always looking for new challenges and collaborations on Open Source projects.
-
----
-
 ### A little more about me:
 
 * 📚 Passionate about technology and the constant evolution of the software market.
 * ✈️ I love to travel, discover new places, and dive into different cultures.
 * ⚽ Football fan and supporter of **São Paulo Futebol Clube** 🔴⚪⚫.
+---
+
+- 💻 Currently studying: **Spring Boot, Docker, and AWS**.
+- 🛠️ Tech Stack: **Java, Python, MySQL, and PostgreSQL**.
+- 🚀 Always looking for new challenges and collaborations on Open Source projects.
 
 ###
 
