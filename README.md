@@ -31,11 +31,3 @@ Currently, I focus on backend development and modern infrastructure, seeking to 
     <img src="https://skillicons.dev/icons?i=git,java,docker,py,mysql,postgres,idea,spring,windows,postman,aws" />
   </a>
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruunosiilva/Bruunosiilva/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruunosiilva/Bruunosiilva/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruunosiilva/Bruunosiilva/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
