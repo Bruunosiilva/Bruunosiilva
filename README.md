@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, I'm Bruno! 👋</h1>
 
 I'm a **Software Engineering Student** living in São Paulo 🇧🇷, passionate about transforming ideas into code and learning new technologies every day.
-
 Currently, I focus on backend development and modern infrastructure, seeking to create efficient and scalable solutions.
 
 ### A little more about me:
