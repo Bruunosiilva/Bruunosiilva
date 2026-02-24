@@ -4,6 +4,8 @@
 
 # Hi there, I'm [Bruno]! 👋
 
+##
+
 I'm a **Software Engineering Student** based in São Paulo, Brazil 🇧🇷, passionate about solving problems through technology and building efficient solutions.
 
 I'm currently focusing my development on the **Java/Spring** ecosystem and modern infrastructure, always looking to learn and grow in the software development field.
@@ -18,6 +20,8 @@ I'm currently focusing my development on the **Java/Spring** ecosystem and moder
 * 💻 I’m passionate about technology and how it changes the world.
 * ✈️ I love to travel and experience new places and different cultures.
 * ⚽ Passionate about football, **São Paulo Futebol Clube** (Brazil) 🔴⚪⚫.
+
+##
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bruunosiilva&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
